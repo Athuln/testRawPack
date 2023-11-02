@@ -1,0 +1,17 @@
+{
+  "name": "testRawPack",
+  "type": "raw-package",
+  "blockId": "vMXZJcZg8vrbroJbh7N9n",
+  "source": {
+    "https": null,
+    "ssh": null,
+    "branch": "block_testRawPack"
+  },
+  "parentBlockIDs": [],
+  "isPublic": true,
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "repoType": "mono",
+  "language": "python"
+}
