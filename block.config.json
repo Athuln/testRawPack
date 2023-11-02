@@ -1,0 +1,17 @@
+{
+  "name": "testRawPack",
+  "type": "raw-package",
+  "blockId": "vMXZJcZg8vrbroJbh7N9n",
+  "source": {
+    "https": "https://github.com/Athuln/testRawPack.git",
+    "ssh": "git@github.com:Athuln/testRawPack.git",
+    "branch": "block_testRawPack"
+  },
+  "parentBlockIDs": [],
+  "isPublic": true,
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "repoType": "mono",
+  "language": "python"
+}
